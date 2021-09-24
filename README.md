@@ -1,4 +1,4 @@
-# Do you know me? - cli quiz app
+# Solar System - cli quiz app
 
 This is a simple cli app which asks questions about our solar system, takes answer as the input and displays the score. Built with NodeJS.
 
